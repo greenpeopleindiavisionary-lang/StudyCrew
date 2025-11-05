@@ -61,7 +61,7 @@ docker compose up
 ## 🔗 Links
 
 - 📦 [Source Code (GitHub)](https://github.com/ibrahimfadu/StudyCrew)
-- 🚀 [Live Demo](https://studycrew.vercel.app) 
+- 🚀 [Live Demo](https://studycrew.in) 
 
 
   ## 📄 License
